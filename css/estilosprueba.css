@@ -58,4 +58,44 @@
   }
   }
 
+  /*GALERIA CON FILTER*/
+  .categorias {
+    list-style: none;
+  }
+
+  .categorias a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .categorias a:hover {
+    color: blueviolet;
+  }
+
+  .categorias a.activo {
+    color: blueviolet;
+  }
+ 
+  .grid{
+    position: relative;
+    width: 100%;
+  }
   
+  .grid .item {
+    position: absolute;
+    display: block;
+    padding: 0;
+    margin: 1rem;
+    width: calc(33.3333%);
+  }
+
+  .grid .item img {
+    width: 100%;
+  }
+
+  .grid .item-content {
+    position: relative;
+  }
+
+  
+
