@@ -1,0 +1,28 @@
+/*FAQ CSS*/
+
+/*sticky bar*/
+  
+.sidebar-item {
+    position: absolute;
+    height: 100%;   
+}
+
+.make-me-sticky {
+  position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.faq__title {
+  color: #ff0437;
+}
+
+#estilo__preguntas a {
+  text-decoration: none;
+  color: black;
+}
+
+#estilo__preguntas a:hover {
+  color: #ff0437;
+  transition: 0.3s;
+}

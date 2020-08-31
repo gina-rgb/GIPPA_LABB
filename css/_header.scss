@@ -1,0 +1,15 @@
+/* Header - NavBar */ 
+
+.main__nav {
+    box-shadow: 0.2rem 0.2rem 4rem /*2px 2px 5px*/ #999999;
+  }
+
+#header__menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#header__menu a:hover {
+    color: #ff0437;
+    transition: 0.3s;
+  }

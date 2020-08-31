@@ -1,0 +1,25 @@
+/*Generales styles*/
+
+/*Colores usados
+-Magenta: #ff0437 // alternative #F20587
+-Cyan: #0487D9 // alternative #049DBF
+-Amarillo: #ffd332 // alternative #F2D022
+-Negro: black
+-Violeta: #7027e1
+*/
+
+#button {
+  transition-duration: 0.4s;
+}
+  
+#button:hover {
+  background-color: #ff0437;
+  border: #ff0437; 
+  color: white;
+}
+
+#inverse-button:hover {
+  background-color: whitesmoke;
+  border: whitesmoke;
+  color: #ff0437;
+}
