@@ -14,10 +14,6 @@
 }
 
 /*Index styles*/
-.main__title {
-  font-size: 8rem;
-}
-
 /*.section__valores {
     background-color: transparent;
     padding-top: 5%;
@@ -54,15 +50,6 @@
   background-color: whitesmoke;
   border: whitesmoke;
   color: #ff0437;
-}
-
-/*
-#font-h1 {
-  font-family: 'Poppins' sans-serif;
-  font-weight: bold;
-}*/
-#font-h4 {
-  font-family: 'Poppins' sans-serif;
 }
 
 /*Equipo styles*/
