@@ -90,16 +90,17 @@
 
 /*FAQ CSS*/
 /*sticky bar*/
-.sidebar-item {
-  position: absolute;
-  height: 100%;
+/*.sidebar-item {
+    position: absolute;
+    height: 100%;   
 }
 
 .make-me-sticky {
-  position: sticky;
-  top: 0;
+  position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
-
+*/
 .faq__title {
   color: #ff0437;
 }
